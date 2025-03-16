@@ -666,3 +666,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 chmod +x bike-shop.sh
 ./bike-shop.sh
 help
+./bike-shop.sh
