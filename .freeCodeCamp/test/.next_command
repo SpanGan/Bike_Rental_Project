@@ -320,3 +320,14 @@ man psql
 psql --username=freecodecamp --dbname=bikes -f bikes.sql
 psql --username=freecodecamp --dbname=postgres -f bikes.sql
 psql --username=freecodecamp --dbname=bikes
+touch init_db.sh
+touch exit_db.sh
+./exit_db.sh
+man chmod
+chmod +x exit_db.sh
+./exit_db.sh
+./exit_db.sh
+./exit_db.sh
+chmod +x init_db.sh
+./exit_db.sh
+./init_db.sh
