@@ -667,3 +667,4 @@ chmod +x bike-shop.sh
 ./bike-shop.sh
 help
 ./bike-shop.sh
+./bike-shop.sh
