@@ -1180,3 +1180,6 @@ echo "$(echo ' M e ' | sed 's/^ bike-shop.sh bikes.sql exit_db.sh init_db.sh $//
 echo "$(echo ' M e ' | sed 'd/ $//g' )."
 echo "$(echo ' M e ' | sed 's/ $//g' )."
 echo "$(echo ' M e ' | sed 's/ $//g' )."
+echo "$(echo ' M e ' | sed 's/ $*//g' )."
+echo "$(echo ' M e ' | sed 's/ $*//g' )."
+echo "$(echo ' M e ' | sed 's/ *$//g' )."
