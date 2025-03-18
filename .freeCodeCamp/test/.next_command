@@ -1195,3 +1195,5 @@ echo "$(echo ' M e ' | sed -r 's/^ *| *$//g' )."
 ./bike-shop.sh
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=bikes
+psql --username=freecodecamp --dbname=bikes
+psql --username=freecodecamp --dbname=bikes
